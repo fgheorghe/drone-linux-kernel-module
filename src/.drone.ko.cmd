@@ -1,0 +1,1 @@
+cmd_/home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.13.0-45-generic/scripts/module-common.lds --build-id  -o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.ko /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.mod.o

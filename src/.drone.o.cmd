@@ -1,0 +1,1 @@
+cmd_/home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.o := ld -m elf_x86_64   -r -o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone.o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone_device.o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone_module.o /home/fgheorghe/Desktop/test/drone-kernel-module/src/drone_commands.o 
